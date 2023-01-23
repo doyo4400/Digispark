@@ -1,8 +1,10 @@
 # Tutorial dispark 2k23
 
 ## Made with
-usb : Digispark Attiny 85
-software : arduino
+- usb : Digispark Attiny 85
+- software : arduino
+- OS : Kali Linux 2022.4
+
 
 ## Step-by-step
 
