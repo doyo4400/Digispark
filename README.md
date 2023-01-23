@@ -8,7 +8,7 @@
 
 ## Step-by-step
 
-Install arduino
+Install arduino :
 
 ````md
 tar -xJf arduino-X.X.X-linux64.tar.xz
@@ -24,7 +24,7 @@ Install additional package "digistump"
 
 Swipe to digistump mode (tools > car type > Digispark (Default 16.5 Mhz))
 
-Gif explain : https://digistump.com/wiki/digispark/tutorials/connecting
+Gif explain this : https://digistump.com/wiki/digispark/tutorials/connecting
 
 
 ## Configure attack
